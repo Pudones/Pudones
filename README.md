@@ -1,16 +1,29 @@
-### Hi there 👋
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+  }
 
-<!--
-**Pudones/Pudones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  h1 {
+    border: none;
+  }
 
-Here are some ideas to get you started:
+  .tc {
+    text-align: center;
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  .email-card {
+    display: flex;
+    justify-content: center;
+  }
+</style>
+
+<h1 class="tc">Olá, meu nome é Guilherme!</h1>
+
+<p class="tc">Contato:</p>
+
+<div class="email-card">
+
+![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&label=guimndss@hotmail.com)
+</div>
