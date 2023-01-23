@@ -1,24 +1,3 @@
-<style>
-  * {
-    margin: 0;
-    padding: 0;
-    text-decoration: none;
-  }
-
-  h1 {
-    border: none;
-  }
-
-  .tc {
-    text-align: center;
-  }
-
-  .email-card {
-    display: flex;
-    justify-content: center;
-  }
-</style>
-
 <h1 class="tc">Olá, meu nome é Guilherme!</h1>
 
 <p class="tc">Contato:</p>
