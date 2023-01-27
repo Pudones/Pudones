@@ -1,6 +1,6 @@
 ### Olá, meu nome é Guilherme!
 
-Atualmente cursando Faculdade de Ciência da Computação e estudando front-end e CMS.
+Atualmente cursando Ciência da Computação e estudando front-end e CMS.
 Obrigado pela visita!
 
 Minhas redes:
