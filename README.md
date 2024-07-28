@@ -10,7 +10,7 @@ Minhas redes:
 
 <!-- ![HUB](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&label=pudones.github.io) -->
 
-[![HUB](https://badgen.net/badge/pudones.github.io/Projetos/purple?scale=1.4)](https://pudones.github.io)
+[![HUB](https://badgen.net/badge/Pudones-Hub/Projetos/purple?scale=1.4)](https://pudones-hub.vercel.app/)
 
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&label=guimndss@hotmail.com)](mailto:guimndss@hotmail.com)
 
