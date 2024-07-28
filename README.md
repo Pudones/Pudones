@@ -1,7 +1,9 @@
 ### Olá, meu nome é Guilherme!
 
 Desenvolvedor Front-End.
+
 Atualmente cursando Ciência da Computação.
+
 Obrigado pela visita!
 
 Minhas redes:
